@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/drawable-v24/ic_delete.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/drawable-v24/ic_like.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/drawable-v24/ic_vibe.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/drawable-v24/ic_vibe_yellow.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/drawable/ic_add_date.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/drawable/ic_add_time.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/drawable/ic_location.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_activate.xml" value="0.1796875" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_add_event.xml" value="0.1796875" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_click.xml" value="0.1322463768115942" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_date_time.xml" value="0.1" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_duadmin.xml" value="0.13134057971014493" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_edit_profile.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_est_user.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_event_details.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_event_time.xml" value="0.22" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_float.xml" value="0.13043478260869565" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_main2.xml" value="0.1796875" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_main3.xml" value="0.1796875" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_person.xml" value="0.1453804347826087" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_refresh.xml" value="0.1796875" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_register.xml" value="0.1796875" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_reset_password.xml" value="0.1796875" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_review.xml" value="0.1796875" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_shimmer.xml" value="0.12681159420289856" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_splash.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_test.xml" value="0.1796875" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_test2.xml" value="0.13677536231884058" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_testing_field.xml" value="0.1796875" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_testing_function.xml" value="0.1796875" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_toggle.xml" value="0.15579710144927536" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_vibey.xml" value="0.1358695652173913" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/activity_volley_response.xml" value="0.14764492753623187" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/content_main.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/custom_address_dialog.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/custom_entrance_dialog.xml" value="0.1431159420289855" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/custom_lineup_dialog.xml" value="0.1408514492753623" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/custom_otp_dialog.xml" value="0.22" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/custom_venue_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/events_item_list.xml" value="0.3671875" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/item_list.xml" value="0.1796875" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/item_list_admin.xml" value="0.22" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/item_list_est_user.xml" value="0.13994565217391305" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/item_list_shimmer.xml" value="0.22" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/item_list_vibey.xml" value="0.1358695652173913" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/list_items.xml" value="0.1796875" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/list_itemz.xml" value="0.1796875" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/list_itemz2.xml" value="0.1796875" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/radio_button_group.xml" value="0.1796875" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/reviews_list.xml" value="0.14492753623188406" />
+        <entry key="..\:/Users/ma200304/Desktop/MoVibes Projects/Android App 05112021/Android App/app/src/main/res/layout/row_item.xml" value="0.1322463768115942" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
