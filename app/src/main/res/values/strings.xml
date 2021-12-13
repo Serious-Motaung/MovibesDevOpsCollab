@@ -12,6 +12,7 @@
     <string name="sing_up"><u>Sign Up</u></string>
     <string name="Forgot_password"><u>Forgot Password?</u></string>
     <string name="register">Register</string>
+    <string name="use">------------ or use ------------</string>
     <string name="title_activity_main2">MainActivity2</string>
     <!-- Strings used for fragments for navigation -->
     <string name="first_fragment_label">First Fragment</string>
